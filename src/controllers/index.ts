@@ -1,0 +1,1 @@
+export * from './basic-face-detection.controller';
